@@ -1,0 +1,28 @@
+name: HelloVon
+favicon: null
+layout_spectrum: 0.6813353153411299
+typography_spectrum: 0.875764285447076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0061589633114635944
+  lightness: 0.6102100496646017
+  saturation: 0.16757210670039058
+  rhythmicContrast: 0.21369736990891397
+purpose: []
